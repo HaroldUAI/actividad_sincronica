@@ -10,7 +10,7 @@ namespace MODELO
     {
         //ESTA VARIABLE VA A REPRESENTAR EL OBJETO BANCO QUE VOY A UTILIZAR
         private static BANCO instancia;
-
+        por ejemplo hago este cambio
         //CON ESTE METODO VOY A REVISAR SI TENGO CREADA LA INSTANCIA DE BANCO SOBRE LA VARIABLE instancia
         // PATRON SINGLETON                
         public static BANCO OBTENER_INSTANCIA()
